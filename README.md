@@ -3,7 +3,7 @@
 Reactの基礎概念（コンポーネント設計、Hooksによる状態管理）の理解と、モダンなフロントエンド開発フロー（Vite + Vercel）を習得するために作成したクイズアプリケーションです。
 
 ## 🌐 デモ (Live Demo)
-**https://react-quiz-livid-six.vercel.app/quiz**
+**https://react-quiz-livid-six.vercel.app/**
 *(PC・スマートフォン等のレスポンシブ対応済み)*
 
 ## 🛠️ 使用技術 (Tech Stack)
